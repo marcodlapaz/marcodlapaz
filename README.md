@@ -10,6 +10,10 @@
   />
 </p>
 
+- 💬 Pregúntame sobre **HTML, CSS, JavaScript, ReactJS**
+
+- 📫 Escribeme **marcovalencia.dev@gmail.com**
+
 <h3 align="left">Contáctame en:</h3>
 <p align="left">
   <a href="https://twitter.com/marcodlapaz" target="blank"
