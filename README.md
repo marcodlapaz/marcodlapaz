@@ -10,7 +10,7 @@
   />
 </p>
 
-<h3 align="left">Contactame en:</h3>
+<h3 align="left">Contáctame en:</h3>
 <p align="left">
   <a href="https://twitter.com/marcodlapaz" target="blank"
     ><img
